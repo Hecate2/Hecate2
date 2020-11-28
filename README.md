@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Hecate2's github stats](https://github-readme-stats.vercel.app/api?username=Hecate2&show_icons=true&theme=tokyonight&count_private=true)
+![Hecate2's github stats](https://github-readme-stats.vercel.app/api?username=Hecate2&show_icons=true&theme=buefy&count_private=true)
 <!--
 **Hecate2/Hecate2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
