@@ -14,7 +14,7 @@ Graduate student of Electrical and computer engineering, at Georgia Institute of
 ### Internship Experiences:  
 
 - High concurrency web spiders for monitoring  
-- Backend CRUD services for federated learning platform with trustworthy computation  
+- Backend CRUD services for federated learning platform with strict data privacy  
 
 ### Religious Faith  
 
