@@ -8,7 +8,7 @@ Graduate student of Electrical and computer engineering, at Georgia Institute of
 - **Proficient** Python and HTTP concurrency based on asynchronous programming.  
 - Web, machine learning, deep learning and hardware capable  
 - Can use MySQL and other databases. ORM preferred. Can use C(++), MATLAB and verilog. Can read JavaScript, Java, Go, HTML, etc.  
-- Survives with Git, Docker(-compose), Kubernetes, basic Linux and Windows shell scripts, etc. Survives without GUI and IDE.  
+- Survives with Vim, Git, Docker(-compose), Kubernetes, basic Linux and Windows shell scripts, etc. Survives without GUI and IDE.  
 - Polishing big data stacks (potentially Apache Spark and Elasticsearch for ETL businesses).  
 
 ### Internship Experiences:  
