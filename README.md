@@ -1,5 +1,9 @@
 ![Hecate2's github stats](https://github-readme-stats.vercel.app/api?username=Hecate2&show_icons=true&theme=buefy&count_private=true)  
 
+[![Hecate2](https://img.shields.io/static/v1?label=Hecate2&message=Ignareo&color=green&logo=github)](https://github.com/Hecate2/Ignareo)
+[![stars](https://img.shields.io/github/stars/Hecate2/Ignareo?style=social)](https://github.com/Hecate2/Ignareo/stargazers)
+[![forks](https://img.shields.io/github/forks/Hecate2/Ignareo?style=social)](https://github.com/Hecate2/Ignareo/fork)
+
 Please watch [brief-resume.md](brief-resume.md) and my repositories for more information!  
 
 <!--
