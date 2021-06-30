@@ -14,7 +14,8 @@ Graduate student of Electrical and computer engineering, at Georgia Institute of
 ### Internship Experiences:  
 
 - High concurrency web spiders for monitoring  
-- Backend CRUD services for federated learning platform with strict data privacy  
+- Backend CRUD services for federated learning platform with strict data privacy
+- dApps, compiler, virtual machine, distributed file system, frontend, ... ,  for Neo blockchain
 
 ### Things I have done but codes not uploaded to GitHub
 
