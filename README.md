@@ -4,7 +4,7 @@
 [![stars](https://img.shields.io/github/stars/Hecate2/Ignareo?style=social)](https://github.com/Hecate2/Ignareo/stargazers)
 [![forks](https://img.shields.io/github/forks/Hecate2/Ignareo?style=social)](https://github.com/Hecate2/Ignareo/fork)
 
-Please watch [brief-resume.md](brief-resume.md) and my repositories for more information!  
+Please watch [brief-resume.md](brief-resume.md) / [full resume](Xinghao-Chen-CV.pdf) and my repositories for more information!  
 
 <!--
 **Hecate2/Hecate2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
