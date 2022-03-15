@@ -1,4 +1,4 @@
-<img align='right' src='http://sukasuka-anime.com/core_sys/images/contents/00000022/block/00000070/00000057.png?1553087362' width='128px'></img>
+<img align='right' src='http://sukasuka-anime.com/core_sys/images/contents/00000021/block/00000068/00000055.png?1553087362' width='128px'></img>
 ![Hecate2's github stats](https://github-readme-stats.vercel.app/api?username=Hecate2&show_icons=true&theme=buefy&count_private=true)  
 
 [![Hecate2](https://img.shields.io/static/v1?label=Hecate2&message=Ignareo&color=green&logo=github)](https://github.com/Hecate2/Ignareo)
