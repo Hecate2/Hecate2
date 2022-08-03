@@ -6,6 +6,7 @@ Graduate student of Electrical and computer engineering, at Georgia Institute of
 
 - **Fast learner**  
 - **Proficient** Python and HTTP concurrency based on asynchronous programming.  
+- Blockchain (application + infrastructure level)
 - Web, machine learning, deep learning and hardware capable  
 - Can use MySQL and other databases. ORM preferred. Can use C(++), MATLAB and verilog. Can read JavaScript, Java, Go, HTML, etc.  
 - Survives with Vim, Git, Docker(-compose), Kubernetes, basic Linux and Windows shell scripts, etc. Survives without GUI and IDE.  
@@ -38,11 +39,13 @@ I accept occasional overtime working, but **NO 996 ALL YEAR ROUND!** Thanks.
 
 **Codes are read by humans**, not machines.  
 
+Fully automated tests are **religiously correct**.
+
+Do not write too strict `assert`s in auto tests before the demands are solidified. 
+
 Testing codes before writing them is OK.  
 
 Save time for humans instead of machines.  
-
-I do not really like Java... unless it does save my time.  
 
 **I need preparation** before I am tested with routine job interview questions, especially when it comes to algorithms.  
 
