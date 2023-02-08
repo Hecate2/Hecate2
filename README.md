@@ -5,6 +5,10 @@
 [![stars](https://img.shields.io/github/stars/Hecate2/Ignareo?style=social)](https://github.com/Hecate2/Ignareo/stargazers)
 [![forks](https://img.shields.io/github/forks/Hecate2/Ignareo?style=social)](https://github.com/Hecate2/Ignareo/fork)
 
+[![Hecate2](https://img.shields.io/static/v1?label=Hecate2&message=CNS&color=blue&logo=github)](https://github.com/Hecate2/Ignareo)
+[![stars](https://img.shields.io/github/stars/Hecate2/CNS?style=social)](https://github.com/Hecate2/CNS/stargazers)
+[![forks](https://img.shields.io/github/forks/Hecate2/CNS?style=social)](https://github.com/Hecate2/CNS/fork)
+
 Please watch [brief-resume.md](brief-resume.md) / [full resume](Hecate2-CV.pdf) and my repositories for more information!  
 <!--
 **Hecate2/Hecate2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
