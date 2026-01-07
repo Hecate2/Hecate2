@@ -1,4 +1,4 @@
-![Hecate2's github stats](https://github-readme-stats.vercel.app/api?username=Hecate2&show_icons=true&theme=buefy&count_private=true&show=reviews,prs_merged)&nbsp;&nbsp;&nbsp;&nbsp;
+![Hecate2's github stats](https://github-readme-stats-fast.vercel.app/api?username=Hecate2&show_icons=true&theme=buefy&count_private=true&show=reviews,prs_merged)&nbsp;&nbsp;&nbsp;&nbsp;
 <img align='right' src='imgs/00000055f40e.png' width='128px'></img>  
 
 [![Hecate2](https://img.shields.io/static/v1?label=Hecate2&message=Ignareo&color=green&logo=github)](https://github.com/Hecate2/Ignareo)
