@@ -1,0 +1,117 @@
+% YAAC Another Awesome CV LaTeX Template
+%
+% This template has been downloaded from:
+% https://github.com/darwiin/yaac-another-awesome-cv
+%
+% Author:
+% Christophe Roger
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%Section: Work Experience at the top
+\sectionTitle{工作经历}{\faSuitcase}
+%\renewcommand{\labelitemi}{$\bullet$}
+\begin{experiences}
+ \experience
+    {2025/09/15}     {资深研发工程师}{Conflux}{\href{https://confluxnetwork.org}{\underline{confluxnetwork.org}}}
+    {至今}    {
+        \begin{itemize}
+            \item 透明的单交易内Uniswap V3流动性NFT质押+做市。
+            \item 透明无信任跨链交易执行Demo，涉及Conflux eSpace与Aptos。修改Aptos共识代码并增加自定义交易类型。
+            \item Conflux-Rust进行大规模性能测试，使用全球多云服务器。
+            \item 为Conflux的资产跨链服务编写文档。
+            \item 自动向跨链来的新资产持有者发送0.1 CFX补贴。
+        \end{itemize}
+                    }
+                    {Solidity, Rust, Move, Python, AWS, Alibaba Cloud, Tencent Cloud, vibe coding}
+ \emptySeparator
+ \experience
+    {2021/05/10}     {区块链开发工程师}{智能合约、基础设施与安全审计}{\href{https://neo.org}{\underline{neo.org}}}
+    {2025/02/28}    {
+                      \begin{itemize}
+                        \item 革新Neo区块链测试调试工具：开发链节点插件\href{https://github.com/Hecate2/neo-fairy-test/}{\underline{Fairy}}（支持RPC测试调试）及自动化\href{https://github.com/Hecate2/neo-fairy-client/}{\underline{客户端}}，功能超越\href{https://github.com/NomicFoundation/hardhat}{\underline{hardhat}}与\href{https://github.com/trufflesuite/truffle}{\underline{truffle}}
+                        \item 开发\href{https://github.com/neo-project/neo-devpack-dotnet/tree/master/src/Neo.Compiler.CSharp/Optimizer}{\underline{Neo智能合约汇编分析器}}、\href{https://github.com/neo-project/neo-devpack-dotnet/tree/master/src/Neo.Compiler.CSharp/SecurityAnalyzer}{\underline{优化器及漏洞扫描器}}，支持try-catch-finally混合控制流
+                        \item LLM/RAG及智能体框架研究（LangGraph/Dify/ChromaDB/MongoDB），初步构建MCP工具与LLM代理解决方案\href{https://github.com/xspoonai}{\underline{SpoonOS}}
+                        \item 基于智能合约实现\href{https://github.com/Hecate2/RelationalDB}{\underline{关系型数据库}}（键值存储后端），通过伸展树支持二级索引与范围查询
+                        \item Rust开发Neo账户加密操作\href{https://github.com/Hecate2/oauth-account-backend}{\underline{后端}}，贡献\href{https://github.com/r3e-network/NeoRust}{\underline{Rust版Neo实现}}
+                        \item 编写Neo区块链源码级\href{https://github.com/Hecate2/how-to-debug-neo/}{\underline{调试教程}}与技术文档
+                        \item 开发类虚拟机\href{https://github.com/Hecate2/SukaLambda}{\underline{游戏技能引擎}}支持任意技能实现
+                        \item 开发DeFi/DAO智能合约：\href{https://github.com/neoburger/}{\underline{NeoBurger}}、\href{https://github.com/Hecate2/neo-ruler/}{\underline{ruler协议}}、\href{https://github.com/Hecate2/NFTLoan}{\underline{可分NFT借贷标准}}；研究MINLP利润优化算法及\href{https://github.com/Hecate2/MerkleTreeForAirDrop}{\underline{默克尔树零知识证明空投合约}}以节省GAS费
+                        \item 密码学程序开发：C\#实现\href{https://github.com/Hecate2/ECrecover}{\underline{以太坊ECRecover指令}}(Bouncy Castle)、\href{https://github.com/Hecate2/RSA-xml-to-pem}{\underline{RSA密钥XML转PEM}}、\href{https://github.com/Hecate2/nep2wif}{\underline{Neo钱包转WIF格式}}、\href{https://github.com/Hecate2/zk-principle}{\underline{零知识证明教程}}；设计抗MEV的以太坊兼容dBFT共识协议（阈值加密与分布式密钥生成）
+                        \item 分析Neo虚拟机与垃圾回收机制，发现安全漏洞；定位编译器虚拟机指令级缺陷
+                        \item 使用hardhat进行Solidity合约测试
+                        \item 执行链上数据分析，\href{https://github.com/Hecate2/eth_rpc_monitor/}{\underline{监控}}以太坊主流DeFi协议
+                        \item 构建基于网页的Neo功能演示系统（NeoFS/数字身份/预言机/智能合约），分析React前端与合约代码
+                      \end{itemize}
+                    }
+                    {Neo blockchain, smart contract, DeFi, neo-vm, compiler, tester, debugger, security audit, NeoFS, Solidity, hardhat, C\#, node.js, React, cryptography, consensus protocol, zero knowledge proof, MCP, LangGraph}
+  \emptySeparator
+ \experience
+    {2025/03/03}     {高级智能合约工程师}{mETH 以太坊质押基础设施}{\href{https://github.com/mantle-lsp}{\underline{github.com/mantle-lsp}}}
+    {2025/08/13}    {
+        \begin{itemize}
+            \item mETH后端服务维护：A41, blockdaemon, Kraken, P2P, Stakefish; SSV验证节点; 预言机; Pectra升级
+            \item mETH合约安全：拦截受制裁账户转账；漏洞赏金报告审查
+            \item 以太坊验证节点存款/证明/退出的全自动签名仿真系统（支持私有/公有网络）
+            \item 优化以太坊验证节点退出扫描延迟时间
+            \item \href{https://github.com/ethpandaops/ethereum-package}{\underline{ethereum-package}}、全链同质化代币(OFT)及Lido v3技术研究
+        \end{itemize}
+                    }
+                    {Solidity, foundry, golang, Ethereum staking, mETH}
+  \emptySeparator
+  \experience
+    {2019年6月} {\href{https://github.com/Hecate2/Ignareo-ISML-auto-voter}{\underline{Ignareo}}}{\href{https://github.com/Hecate2/Ignareo-ISML-auto-voter}{超高并发HTTP爬虫框架}}{150+ stars}
+    {}    {
+                      \begin{itemize}
+                        \item 基于异步tornado服务器的爬虫框架
+                        \item 分布式代理架构：功能模块微服务化
+                        \item 弥补scrapy缺陷：非阻塞休眠、高内聚用户代码、自定义负载均衡扩展
+                        \item 无缝兼容asyncio/gevent生态
+                        \item 经过实战验证的性能与稳定性
+                      \end{itemize}
+                    }
+                    {distributed, web spider, asyncio, aiohttp, gevent, requests, tornado}
+  \emptySeparator
+   \experience
+    {2020年2月} {后端开发实习生}{数据隐私联邦学习系统}{\href{https://www.points.org}{\underline{www.points.org}}}
+    {2020年6月}    {
+    跨机构联邦机器学习Web服务：在分布式数据集上保持严格数据隐私，基于gRPC协议实现
+                      \begin{itemize}
+                        \item 完整商业开发流程实践：设计/编码/部署/测试/PR/代码审查（主仓库提交111052++/86888--行代码）
+                        \item 设计用户与API鉴权后端，开发数据使用审批系统
+                        \item 参考横向学习API实现纵向学习API（数据处理功能，不含核心加密算法）
+                        \item 开发Docker容器实时日志采集服务对接前端
+                        \item 实现跨系统API自动化流程测试
+                        \item 设计分布式纵向/横向训练终止机制
+                        \item 基于Ignareo构建在线模型推理压力测试客户端
+                        \item 使用Flask/Swagger设计数据管理RESTful服务
+                        \item 参与软件著作权注册与联邦学习产品标准制定
+                        \item 编写技术文档与用户手册
+                      \end{itemize}
+                    }
+                    {protobuf, gRPC, sqlalchemy, redis (message queue), tensorflow-federated, dockerfile, docker-compose, git, Flask, swagger, Go}
+  \emptySeparator
+  \experience
+    {2021年8月}     {后端开发实习生}{OpenMMLab运营服务爬虫与Flask后端}{\href{https://www.sensetime.com/}{\underline{商汤科技}} × \href{https://www.shlab.org.cn/}{\underline{上海AI实验室}}}
+    {2021年9月}    {
+                      \begin{itemize}
+                        \item 维护GitHub仓库信息爬取与网页展示系统，基于飞书文档生成周报邮件
+                        \item 设计SQLite至MySQL数据迁移流程（使用DataGrip）
+                        \item 实现Flask运行时多线程操作代码
+                      \end{itemize}
+                    }
+                    {DataGrip, docker-compose, Flask, SQLAlchemy, apscheduler, requests}
+  \emptySeparator
+  \experience
+    {2019年7月}     {开发实习生}{高并发监控爬虫系统}{江森自控}
+    {2019年8月}    {
+                      \begin{itemize}
+                        \item 基于\href{https://github.com/Hecate2/Ignareo-ISML-auto-voter}{\underline{Ignareo}}监控数万台IoT设备
+                        \item 异常数据分析并输出至Excel报表
+                        \item 提供Excel文件浏览下载的Web服务
+                      \end{itemize}
+                    }
+                    {Ignareo, requests, tornado, xlwings}
+  \emptySeparator
+
+\end{experiences}
